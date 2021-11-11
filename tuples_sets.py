@@ -8,7 +8,7 @@ fruits2 = tuple(('Apples', 'Oranges', 'Grapes'))
 
 print(fruits, fruits2)
 
-# Single value needs trailing command
+# Single value needs trailing comma
 fruits3 = ('Apples')
 print(fruits3, type(fruits3))
 
